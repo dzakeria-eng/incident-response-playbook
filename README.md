@@ -5,3 +5,15 @@ This project demonstrates practical knowledge of incident response by building a
 ---
 
 ## 📁 Project Structure
+Incident-Response-Playbook/
+│
+├── Documentation/
+│ └── Incident-Response-Playbook.md
+│
+├── Phishing/
+│ └── Phishing-Incident-Response.md
+│
+├── Ransomware/
+│ └── Ransomware-Incident-Response.md
+│
+└── Reports/
