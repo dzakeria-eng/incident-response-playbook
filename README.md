@@ -1,2 +1,7 @@
-# incident-response-playbook
-NIST 800-61 Playbook including phishing and ransomware incident response scenarios
+# Incident Response Playbook (NIST 800-61)
+
+This project demonstrates practical knowledge of incident response by building a full NIST 800-61–aligned playbook with two complete real-world scenarios: phishing compromise and ransomware infection. The goal of this project is to simulate how a cybersecurity analyst analyzes alerts, contains threats, collects evidence, and restores operations while following industry-standard procedures.
+
+---
+
+## 📁 Project Structure
